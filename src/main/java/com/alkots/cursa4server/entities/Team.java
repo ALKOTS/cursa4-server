@@ -23,4 +23,6 @@ public class Team {
 
     @Nullable
     private Short score;
+
+    private String email;
 }
