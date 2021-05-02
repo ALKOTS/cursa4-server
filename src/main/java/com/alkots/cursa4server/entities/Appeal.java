@@ -16,7 +16,7 @@ public class Appeal {
     @GeneratedValue
     private Long id;
 
-    private String team;  //change to id in the future  need to join
+    private String team;
     private String question;
     private String answer;
     private String rAnswer;
